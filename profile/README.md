@@ -1,3 +1,3 @@
 <div align="center">
-<img decoding="async" src="/image/1.jpg" width="500">
+<img decoding="async" src="/image/1.png" width="500">
 </div>
